@@ -21,3 +21,4 @@ https://github.com/gupta-sudo/api
            |                       |
  GET|HEAD  | sanctum/csrf-cookie   | Laravel\Sanctum\Http\Controllers\CsrfCookieController@show
 +--------+-----------+-----------------------+---------------------------------------------------
+
